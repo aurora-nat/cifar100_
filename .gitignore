@@ -1,0 +1,8 @@
+#tar file:
+cifar-100-python.tar.gz
+
+#venv
+ai_venv/
+
+#cifar files
+Cifar100/
